@@ -14,3 +14,8 @@ splarf spits out random characters and freezes your computer
 message
 =======
 this will use xmessage to annoy you to no end
+
+eyes
+====
+really big xeyes and creepy text to speech
+probably wont work on linux
