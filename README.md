@@ -10,6 +10,7 @@ filesing.command does find -P / and writes it into a text file, then sings the f
 splarf
 ======
 splarf spits out random characters and freezes your computer
+is a c++ program so you need to compile it
 
 message
 =======
