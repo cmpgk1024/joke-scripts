@@ -1,7 +1,7 @@
 joke-scripts
 ============
 
-silly bash scripts to fool your friends with
+silly bash scripts and short programs to fool + annoy your friends with
 
 filesing
 ========
