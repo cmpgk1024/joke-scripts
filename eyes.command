@@ -1,6 +1,6 @@
 #!/bin/bash
 
-xeyes -geometry 1280x800 &
+xeyes -fg red  -geometry 1280x800 &
 
 while [ 1 ]
 do
