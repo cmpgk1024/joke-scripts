@@ -20,3 +20,7 @@ eyes
 ====
 really big xeyes and creepy text to speech
 probably wont work on linux
+
+saytemplate
+===========
+a cool template for always looping say (really annoying)
